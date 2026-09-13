@@ -10,5 +10,4 @@ Está implementado desde cero: competencia por neurona ganadora, función de vec
 
 ## Créditos
 
-Dataset: Zoo Dataset, UCI Machine Learning Repository (donante: Richard S. Forsyth),
-licencia CC BY 4.0.
+Dataset: [Zoo Dataset, UCI Machine Learning Repository (donante: Richard S. Forsyth)](https://archive.ics.uci.edu/dataset/111/zoo), licencia CC BY 4.0.
